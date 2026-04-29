@@ -1,0 +1,4 @@
+# 腾讯云Pages重定向配置
+# 将 /api/kimi/* 代理到 Kimi API
+
+/api/kimi/*  https://api.moonshot.cn/:splat  200
